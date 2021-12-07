@@ -1,0 +1,20 @@
+{
+  "name": "Royal Sweet Basil",
+  "description": "Royal Sweet Basil",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Royal_Sweet_Basil.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "5"
+    },
+    {
+      "trait_type": "level",
+      "value": "2"
+    },
+    {
+      "trait_type": "item",
+      "value": "2"
+    }
+  ]
+}

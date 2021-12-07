@@ -1,0 +1,20 @@
+{
+  "name": "Vitamin C-1000",
+  "description": "Vitamin C-1000",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Vitamin_C-1000.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "1"
+    },
+    {
+      "trait_type": "level",
+      "value": "4"
+    },
+    {
+      "trait_type": "item",
+      "value": "3"
+    }
+  ]
+}

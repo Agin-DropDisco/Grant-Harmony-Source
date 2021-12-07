@@ -1,0 +1,20 @@
+{
+  "name": "Silly Hero Bacon",
+  "description": "Silly Hero Bacon",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Silly_Hero_Bacon.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "2"
+    },
+    {
+      "trait_type": "level",
+      "value": "2"
+    },
+    {
+      "trait_type": "item",
+      "value": "3"
+    }
+  ]
+}
