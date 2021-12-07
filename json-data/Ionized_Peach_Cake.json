@@ -1,0 +1,20 @@
+{
+  "name": "Ionized Peach Cake",
+  "description": "Ionized Peach Cake",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Ionized_Peach_Cake.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "1"
+    },
+    {
+      "trait_type": "level",
+      "value": "4"
+    },
+    {
+      "trait_type": "item",
+      "value": "5"
+    }
+  ]
+}

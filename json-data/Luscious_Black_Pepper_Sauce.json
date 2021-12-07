@@ -1,0 +1,20 @@
+{
+  "name": "Luscious Black Pepper Sauce",
+  "description": "Luscious Black Pepper Sauce",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Luscious_Black_Pepper_Sauce.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "5"
+    },
+    {
+      "trait_type": "level",
+      "value": "4"
+    },
+    {
+      "trait_type": "item",
+      "value": "3"
+    }
+  ]
+}

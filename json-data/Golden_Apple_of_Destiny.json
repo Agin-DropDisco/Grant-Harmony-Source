@@ -1,0 +1,20 @@
+{
+  "name": "Golden Apple of Destiny",
+  "description": "Golden Apple of Destiny",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Golden_Apple_of_Destiny.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "1"
+    },
+    {
+      "trait_type": "level",
+      "value": "4"
+    },
+    {
+      "trait_type": "item",
+      "value": "1"
+    }
+  ]
+}

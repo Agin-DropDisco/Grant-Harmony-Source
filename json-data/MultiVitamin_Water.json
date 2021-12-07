@@ -1,0 +1,20 @@
+{
+  "name": "MultiVitamin Water",
+  "description": "MultiVitamin Water",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/MultiVitamin_Water.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "4"
+    },
+    {
+      "trait_type": "level",
+      "value": "3"
+    },
+    {
+      "trait_type": "item",
+      "value": "2"
+    }
+  ]
+}

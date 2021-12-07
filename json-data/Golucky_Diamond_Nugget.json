@@ -1,0 +1,20 @@
+{
+  "name": "Golucky Diamond Nugget",
+  "description": "Golucky Diamond Nugget",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Golucky_Diamond_Nugget.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "6"
+    },
+    {
+      "trait_type": "level",
+      "value": "2"
+    },
+    {
+      "trait_type": "item",
+      "value": "3"
+    }
+  ]
+}
