@@ -1,0 +1,20 @@
+{
+  "name": "Burnished Gold Ingot",
+  "description": "Burnished Gold Ingot",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Burnished_Gold_Ingot.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "6"
+    },
+    {
+      "trait_type": "level",
+      "value": "3"
+    },
+    {
+      "trait_type": "item",
+      "value": "2"
+    }
+  ]
+}

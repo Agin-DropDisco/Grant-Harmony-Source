@@ -1,0 +1,20 @@
+{
+  "name": "Fantastic Love Powder",
+  "description": "Fantastic Love Powder",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Fantastic_Love_Powder.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "4"
+    },
+    {
+      "trait_type": "level",
+      "value": "3"
+    },
+    {
+      "trait_type": "item",
+      "value": "4"
+    }
+  ]
+}

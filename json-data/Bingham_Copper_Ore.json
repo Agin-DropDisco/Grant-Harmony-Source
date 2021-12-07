@@ -1,0 +1,20 @@
+{
+  "name": "Bingham Copper Ore",
+  "description": "Bingham Copper Ore",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Bingham_Copper_Ore.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "6"
+    },
+    {
+      "trait_type": "level",
+      "value": "1"
+    },
+    {
+      "trait_type": "item",
+      "value": "1"
+    }
+  ]
+}

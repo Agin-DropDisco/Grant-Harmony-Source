@@ -1,0 +1,20 @@
+{
+  "name": "Dragonturtle Cherry",
+  "description": "Dragonturtle Cherry",
+  "background_color": "f3f2f3",
+  "image": "https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/data-img/Dragonturtle_Cherry.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "1"
+    },
+    {
+      "trait_type": "level",
+      "value": "1"
+    },
+    {
+      "trait_type": "item",
+      "value": "4"
+    }
+  ]
+}
