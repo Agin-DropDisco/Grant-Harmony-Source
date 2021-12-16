@@ -1,15 +1,8 @@
 
-# **Harmony - Bridging TradFi To DeFi**
-
-## Challenges: 
-
-### *Track 3: Cross-Chain - “DeFi/NFT/DAO” : https://gitcoin.co/issue/harmony-one/hackathon/20/100026301*
-
+# **Harmony Network**
 
 
 ### **DEMO [Harmony Mainnet]** **[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app)**
-
-### **VIDEO WORKFLOW** **https://www.youtube.com/watch?v=swRyarDEzyk**
 
 
 # DexSwap Finance ($DEXS)
