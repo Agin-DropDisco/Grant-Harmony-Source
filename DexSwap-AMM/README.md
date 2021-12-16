@@ -2,7 +2,7 @@
 # **Harmony Network**
 
 
-### **DEMO [Harmony Mainnet]** **[https://harmony-dexswap.netlify.app/](https://harmony-dexswap.netlify.app)**
+### **DEMO [Harmony Mainnet]** **[https://harmony-dexswap.netlify.app](https://harmony-dexswap.netlify.app)**
 
 
 # DexSwap Finance ($DEXS)
