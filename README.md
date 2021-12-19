@@ -1,6 +1,9 @@
 # GRANT PROPOSAL FOR DEXSWAP PROJECT
+
 <img src="https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/concepts-moba/zh.png"/>
+
 ## BACKGROUND
+
 DexSwap was founded in 2020 consisting of two people
 1. FullStack , Web3 developer : Agin DropDisco || [LINKDIN](https://www.linkedin.com/in/agin-dropdisco-5555b7171/)
 2. RPA ROBOTIC: Adinda Ratnawati Ridwan || [LINKEDIN](https://www.linkedin.com/in/adinda-ratnawati-ridwan-20a980170/)
