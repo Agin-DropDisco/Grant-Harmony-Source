@@ -111,7 +111,7 @@ All Projects are expected to be completed over the next 14 months for DexSwap AM
 We estimate a start date of 25 December 2021.
 
 ### Milestone 1 | Time 2 month
-[x] Roadmap Detailed & Idea for ZooHarmony NFT Gamify
+- [x] Roadmap Detailed & Idea for ZooHarmony NFT Gamify
 [x] Redesign UI/UX  for  DexSwap AMM & ZooHarmony [ Mobile and Web Browser ]
 [x] Build and Test Governance in DexSwap AMM &  Alpha Bridge 
 [x] Recruiting [Developer & Comunity Manager]
