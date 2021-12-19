@@ -1,6 +1,8 @@
 # GRANT PROPOSAL FOR DEXSWAP PROJECT
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/concepts-moba/zh.png"/>
+ </p>
 
 ## BACKGROUND
 
@@ -33,8 +35,9 @@ Holders of xDEXS(DexSwap)/ONE(Harmony) and related to all Harmony Network projec
 
 
 # 2. Publish ZooHarmony Dapp which has been built since November 2021
+<p align="center">
 <img src="https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/zoo-banner.png">
-
+</p >
 
 ### ZooHarmony provides a dual farming experience while embracing the popular crypto trend of NFTs. The project complements another existing DexSwap Dapp:  thus greatly augmenting liquidity. However, ZooHarmony  has its own utility token ($ZOO) distributed as farming rewards to DexSwap LPs, who stake their xDEXS (DexSwap Liquidity Provider tokens).
 
@@ -50,8 +53,9 @@ Holders of xDEXS(DexSwap)/ONE(Harmony) and related to all Harmony Network projec
 4.  Build  NFT gameplay (gaming fun)
 
 ## Concepts
+<p align="center">
 <img src="https://raw.githubusercontent.com/Agin-DropDisco/Grant-Harmony-Source/main/concepts.png">
-
+</p>
 
 ## Proposal overview and Team
 DexSwap aims to create a more spacious space for developers to implement and develop blockchain & cryptocurrency technology into each platform. Creating end-to-end solutions that will attract a lot of attention from all developers especially in the Harmony Ecosystem. The DexSwap team sees this as a great opportunity to develop an application system that makes it easier for everyone to conduct non-cash transactions that are faster, robust, efficient and secure.
