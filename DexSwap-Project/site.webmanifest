@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "short_name": "",
+    "icons": [{
+            "src": "favicon.png",
+            "sizes": "",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fa760a",
+    "background_color": "#fa760a",
+    "display": "standalone"
+}
