@@ -69,43 +69,19 @@ At the end of November, we have also created and developed another dapp called Z
 ### *In its development the DexSwap Team will consist of six developers and three people for the Community manager, including:* 
 #### Developer
 1. Fullstack Developer 
-• Agin DropDisco/ Founder 
+• Agin DropDisco/ Founder  || [Linkedin](https://www.linkedin.com/in/agin-dropdisco-5555b7171/)
 2. RPA Production from PT AXA Services Indonesia
-•  Adinda Ratnawati Ridwan/ Co Founder 
-3. RPA Knowbots Production / Backend Developer 
-4. Android Developer
-5. Senior Solidity Developer
-6. Frontend Developer (React and Vuejs)
-
-#### Comunity manager
-
-1. Bussines Management
-2. Social media enthusiast and 
-3. Event planner :
-- *Partnership and bussines*
-- *Product launching*
-- *Gathering*
-- *Job Placement*
+•  Adinda Ratnawati Ridwan/ Co Founder || [Linkedin](https://www.linkedin.com/in/adinda-ratnawati-ridwan-20a980170/)
+3. Senior Solidity Developer
+• Agus Wildhan || [Linkedin](https://www.linkedin.com/in/chikall/)
+5. Frontend Developer 
+• Fahreza Rahman  || [Linkedin](https://www.linkedin.com/in/fahreza-rahman-b8220a186/)
 
 ## Funds Requested and Justification
-$150.000
+$50.000
 
 All Projects are expected to be completed over the next 14 months for DexSwap AMM and ZooHarmony, and in the first and second quarters, nearly 65% of the Funds raised will be utilized to recruit expert developers, community managers and the platform development process as well as workshops and mentoring. The rest will be channeled for social media marketing, Partnership and Business Legal, Compliance, Audit and more.
 
-**Allocation:**
-- *Founder* ||  **12%**
-- *Bussines Managment* || **5%**
-- *Marketing Social Media* || **2%**
-- *Workshop and Mentoring* || **7%**
-- *Roadmap and Milestones* ||  **2%**
-- *Partnership and Bussines* || **10%**
-- *Server for One ~ two Years* || **2%**
-- *Legal, Compliance and Audit* || **7%** 
-- *Airdrop Q1~ Q2 2023 || 10%* || **10%**
-- *Managemnet Plan for the Funds* || **5%**
-- *Sponsorship Hackathon & Events* ||  **5%**
-- *Cost  $1.5 ~ $2 /hours x 4 Developer for 14 months* || **27%** 
-- *Cost  $0.7/hours x 3 Comunity Manager for 11 ~ 14  months* || **6%**
 
 ## Development Roadmap:
 We estimate a start date of 25 December 2021.
@@ -146,9 +122,6 @@ We estimate a start date of 25 December 2021.
 - [x] Product Launching & Gathering
 - [x] Hold & Join Grants at Gitcoin
 - [x] Budget Tracking and Reporting System
-#### All project development will be done in 14 Months
-### April 2023
-- [x] Fundraising & Airdrop
 
 
 ## Metrics for success
