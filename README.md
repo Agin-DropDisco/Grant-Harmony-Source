@@ -155,6 +155,7 @@ We estimate a start date of 25 December 2021.
 - [x] 1K ~ 20K user in the last three month
 - [x] 350 ~ 500k transaction in the quartal one & two (Q1~Q2)
 - [x] 250k ~ 1M ONEs LPs
+
 Since DexSwap AMM’s launch in 2021, we have secured multiple rewards from public blockchain/hackathon & hack event, including :
 #####  HARMONY
 - [x] Bridging TradFi to DeFi
