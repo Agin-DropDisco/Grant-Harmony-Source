@@ -2,6 +2,8 @@
 
 ## Safari Deploy
 
+**Todo: yarn d1 && yarn d2 && yarn d3**
+
 ```
 1_initial_migration.js
 ======================
