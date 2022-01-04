@@ -10,4 +10,4 @@
 8. [Ikbal Hasan](https://twitter.com/s1kabayan) || Comunity Manager
 9. [Kirana](https://twitter.com/surebag) || Comunity Manager
 ## Multisig to Receive Funds
-- [0x053f1BD1ae699955Ac44CF5C0f1e1FFD5F623258](https://explorer.harmony.one/address/0x053f1BD1ae699955Ac44CF5C0f1e1FFD5F623258)
+[0x053f1BD1ae699955Ac44CF5C0f1e1FFD5F623258](https://explorer.harmony.one/address/0x053f1BD1ae699955Ac44CF5C0f1e1FFD5F623258)
